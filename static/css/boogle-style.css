@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+text-align: center;
+font-family: 'open sans';
+color: grey;
+}
+
+.image-layout-logo {
+width: 10%;
+height: 10%;
+margin-top:20px;
+margin-bottom:-10px;
+}
+
+h1{
+font-size:50px;
+padding: -5px;
+}
+
+h2{
+font-size:25px;
+padding: -10px;
+}
+
+h3{
+font-size:15px;
+}
+
+.round_image{
+width: 200px;
+height: 200px;
+margin-top:20px;
+margin-bottom:-150px;
+border-radius:50%;
+}
+
+.box {
+background-color: rgb(233, 235, 235);
+border-style: outset;
+border-color: rgb(233, 233, 233);
+border-width: 2px;
+width: 500px;
+height: 500px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#input_box_email {
+background-color: white;
+width: 350px;
+height: 40px;
+border-style: solid;
+border-color: rgb(233, 233, 233);
+border-width: 2px;
+margin-top: 180px;
+margin-left:auto;
+margin-right: auto;
+padding-top: 10px;
+padding-left: 15px;
+text-align: left;
+font-size: 20px;
+}
+
+#input_box_password {
+background-color: white;
+width: 350px;
+height: 40px;
+border-style: solid;
+border-color: rgb(233, 233, 233);
+border-width: 2px;
+margin-bottom: 20px;
+padding-top: 10px;
+padding-left: 15px;
+text-align: left;
+font-size: 20px;
+}
+
+.button {
+  background-color: rgb(71, 138, 253);
+  border-color: rgb(43, 118, 253);
+  border-style: outset;
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  display: inline;
+  padding: 10px 165px;
+    font-size: 20px;
+  font-weight: bold;
+  }
+
+.box_align_right {
+margin-right: -290px;
+}
+
+.link.blue {
+color: blue;
+margin:10px;
+}
+
+.small_images{
+height: 30px;
+}
+
+.footer {
+text-align: left;
+}
+
